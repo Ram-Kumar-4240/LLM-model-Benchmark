@@ -1,0 +1,9 @@
+langchain 
+langchain-community 
+ollama 
+faiss-cpu 
+pandas 
+PyPDF2 
+numpy 
+torch 
+transformers
