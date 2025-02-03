@@ -22,6 +22,10 @@ The project benchmarks several small models based on speed, memory efficiency, a
 | **gemma2:2b** | **19.79** |**-4.03** |  **268.65** |
 | **deepseek-r1:1.5b** | **24.22** |**-6.08** |  **371.40** |
 
+![visual_page-0001](https://github.com/user-attachments/assets/b116cf83-80c8-4499-ad8a-57c1758e29c0)
+
+![Screenshot 2025-02-03 120622](https://github.com/user-attachments/assets/465f0230-0fe7-4917-a795-0d8490376c80)
+
 ## Key Findings:
 - Fastest Model: tinyllama (13.71s average response time)
 - Most Memory-Efficient: deepseek-r1:1.5b (-6.08MB memory usage)
